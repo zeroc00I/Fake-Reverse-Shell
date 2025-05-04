@@ -1,6 +1,9 @@
 # Reverse Shell Troll 🧌
 A Python-based honeypot that turns the tables on attackers by simulating a compromised system and capturing their credentials.
 
+# POC
+![poc.gif](poc.gif)
+
 # Purpose 🎯
 - Troll attackers who send reverse shell payloads
 - Capture passwords and commands in real-time
