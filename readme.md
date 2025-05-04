@@ -23,7 +23,7 @@ Linux prod-web-01 5.15.0-101-generic #111-Ubuntu
 webadmin@prod-web-01:~$ ls
 app.log	config	index.html	node_modules	package.json
 webadmin@prod-web-01:~$ sudo -i
-[sudo] password for webadmin: █
+[sudo] password: █
 Sorry, try again.
 ```
 ## Your Perspective
