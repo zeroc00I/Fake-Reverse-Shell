@@ -50,7 +50,7 @@ FAKE_ENV = {
 }
 ```
 
-## Edit these variables in fake_shell.py:
+## Edit these variables in main.py:
 
 ```python
 ATTACKER_IP = 'X.X.X.X'  # Attacker's listening IP
@@ -60,7 +60,7 @@ ATTACKER_PORT = 4444     # Attacker's listening port
 ## Run the Trap
 
 ```bash
-python3 fake_shell.py
+python3 main.py
 ```
 # Behavioral Examples 🎭
 ## Attacker's Action	What They See	What You See
